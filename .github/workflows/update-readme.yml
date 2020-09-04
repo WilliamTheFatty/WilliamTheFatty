@@ -8,8 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: GitHub - Activity - Readme
-
+    name: Update this repo's README with recent activity
+    
     steps:
       - uses: actions/checkout@v2
         uses: jamesgeorge007/github-activity-readme@v0.3.0
