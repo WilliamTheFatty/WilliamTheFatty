@@ -1,5 +1,5 @@
-### Hi there, I'm William - aka WilliamTheFatMan 👋
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/will_fatty?color=1DA1F2&logo=Twitter&style=for-the-badge">
+### Hi there, I'm William 👋
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/will_fatty?color=1DA1F2&logo=Twitter&style=for-the-badge">][Twitter]
 
 ## I'm a Dog Owner, Developer!
 
