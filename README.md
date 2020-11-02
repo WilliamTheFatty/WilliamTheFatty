@@ -49,6 +49,12 @@
   <summary>📕 Latest Activity</summary>
   
   <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
+2. 🗣 Commented on [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
+3. ❗️ Opened issue [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
+4. 🎉 Merged PR [#1](https://github.com/WilliamTheFatty/WilliamTheFatty/pull/1) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
+5. 💪 Opened PR [#1](https://github.com/WilliamTheFatty/WilliamTheFatty/pull/1) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
+<!--END_SECTION:activity-->
 
 </details>
 
