@@ -49,11 +49,11 @@
   <summary>📕 Latest Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/0rangeFox/esx_inventory/issues/12) in [0rangeFox/esx_inventory](https://github.com/0rangeFox/esx_inventory)
-2. ❗️ Closed issue [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
-3. 🗣 Commented on [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
-4. ❗️ Opened issue [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
-5. 🎉 Merged PR [#1](https://github.com/WilliamTheFatty/WilliamTheFatty/pull/1) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
+1. 🗣 Commented on [#7](https://github.com/0rangeFox/esx_inventory/issues/7) in [0rangeFox/esx_inventory](https://github.com/0rangeFox/esx_inventory)
+2. ❗️ Opened issue [#12](https://github.com/0rangeFox/esx_inventory/issues/12) in [0rangeFox/esx_inventory](https://github.com/0rangeFox/esx_inventory)
+3. ❗️ Closed issue [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
+4. 🗣 Commented on [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
+5. ❗️ Opened issue [#2](https://github.com/WilliamTheFatty/WilliamTheFatty/issues/2) in [WilliamTheFatty/WilliamTheFatty](https://github.com/WilliamTheFatty/WilliamTheFatty)
 <!--END_SECTION:activity-->
 
 </details>
